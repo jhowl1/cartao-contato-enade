@@ -2,17 +2,17 @@
 
 :root {
 
-    --cor-fundo: #121212;
+    --cor-fundo: rgb(255, 255, 255);
 
-    --cor-container: #1E1E1E;
+    --cor-container: #b44b4b;
 
-    --cor-texto-primario: #FFFFFF;
+    --cor-texto-primario: #000000;
 
-    --cor-texto-secundario: #A7A7A7;
+    --cor-texto-secundario: #000000;
 
-    --cor-acento: #BB86FC;
+    --cor-acento: #f1ebeb;
 
-    --cor-acento-hover: #a56ef1;
+    --cor-acento-hover: #f3f0f8;
 
 }
 
@@ -104,6 +104,7 @@ body {
 
     margin-bottom: 15px;
 
+   
 }
 
  
@@ -374,5 +375,5 @@ body {
 
 }
 
- 
+
 
